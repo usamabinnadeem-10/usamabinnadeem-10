@@ -31,6 +31,7 @@ Let's connect and build the future together! 🌟
 - 📫 How to reach me:
   **[LinkedIn](https://www.linkedin.com/in/usama-bin-nadeem/)**
 
+![Usama's github stats](https://github-readme-stats.vercel.app/api?username=usamabinnadeem-10&show_icons=true&hide_border=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usamabinnadeem-10&layout=compact&theme=dark&hide_border=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=usamabinnadeem-10&theme=onedark)](https://github.com/usamabinnadeem-10/github-profile-trophy)
